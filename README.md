@@ -6,6 +6,6 @@ Student dataset
 * 649 instances
 * 30 attributes
 * 6 classes, corresponding to predicted final grade: {A+, A, B, C, D, F}
-* [a relative link](data/student.txt) explains the attributes and class-labels
+* [student.txt](student.txt) explains the attributes and class-labels
 
 Source: https://archive.ics.uci.edu/ml/index.php
