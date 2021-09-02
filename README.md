@@ -24,7 +24,7 @@ Source: https://archive.ics.uci.edu/ml/index.php
 * set the hold-out size
 
 **Step 3**
-* build a supervised NB model from training data set
+* train the model using training data set
 
 **Step 4**
 * predict the class for test data set, based on a trained model
