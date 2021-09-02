@@ -11,4 +11,12 @@ For this project, I have adapted the [student.csv](data/student.csv) data set av
 Source: https://archive.ics.uci.edu/ml/index.php
 
 # Implementation
-**Step 1** open a data file in csv, and transform it into a usable format using pandas libaray
+**Step 1**
+* open a data file in csv, and transform it into a usable format
+* use pandas libaray
+* get familiar with data attributes
+
+**Step 2**
+* open a data file in csv, and transform it into a usable format
+* use pandas libaray
+* get familiar with data attributes
