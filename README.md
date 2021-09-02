@@ -2,7 +2,7 @@
 This repository implements a Naive Bayes classifier in Python. It implements the algorithm with Pandas library for data processing, but the Naive Bayes algorithm implemented from scratch without using off-the-shelf machine learning library.
 
 # Dataset
-Student dataset
+For this project, I have adapted the [student.csv](data/student.csv) data set available from the UCI machine learning repository
 * 649 instances
 * 30 attributes
 * 6 classes, corresponding to predicted final grade: {A+, A, B, C, D, F}
