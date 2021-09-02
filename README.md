@@ -17,6 +17,14 @@ Source: https://archive.ics.uci.edu/ml/index.php
 * get familiar with data attributes
 
 **Step 2**
-* open a data file in csv, and transform it into a usable format
-* use pandas libaray
-* get familiar with data attributes
+* split a data set into a training set and hold-out test set
+* set the hold-out size
+
+**Step 3**
+* build a supervised NB model from training data set
+
+**Step 4**
+* predict the class for test data set, based on a trained model
+
+**Step 5**
+* evaluate a set of predictions in terms of accuracy
