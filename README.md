@@ -27,6 +27,7 @@ Source: https://archive.ics.uci.edu/ml/index.php
 * train the model using training data set
 
 **Step 4**
+* implement a Naive Bayes classifier from scratch
 * predict the class for test data, based on a trained model
 
 **Step 5**
